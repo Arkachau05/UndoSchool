@@ -1,0 +1,6 @@
+com\example\coursesearch\loader\CourseIndexer.class
+com\example\coursesearch\service\CourseSearchService.class
+com\example\coursesearch\controller\CourseController.class
+com\example\coursesearch\CourseSearchApplication.class
+com\example\coursesearch\document\CourseDocument.class
+com\example\coursesearch\document\CourseDocument$CourseDocumentBuilder.class
