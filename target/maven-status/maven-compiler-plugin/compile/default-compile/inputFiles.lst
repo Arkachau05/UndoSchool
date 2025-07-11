@@ -1,5 +1,5 @@
-C:\Java-projects\javap\src\main\java\com\example\coursesearch\controller\CourseController.java
-C:\Java-projects\javap\src\main\java\com\example\coursesearch\document\CourseDocument.java
-C:\Java-projects\javap\src\main\java\com\example\coursesearch\service\CourseSearchService.java
-C:\Java-projects\javap\src\main\java\com\example\coursesearch\CourseSearchApplication.java
-C:\Java-projects\javap\src\main\java\com\example\coursesearch\loader\CourseIndexer.java
+C:\Java-projects\javap\src\main\java\com\example\elasticsearch\ElasticsearchApplication.java
+C:\Java-projects\javap\src\main\java\com\example\elasticsearch\service\CourseService.java
+C:\Java-projects\javap\src\main\java\com\example\elasticsearch\repository\CourseRepository.java
+C:\Java-projects\javap\src\main\java\com\example\elasticsearch\controller\CourseController.java
+C:\Java-projects\javap\src\main\java\com\example\elasticsearch\model\Course.java

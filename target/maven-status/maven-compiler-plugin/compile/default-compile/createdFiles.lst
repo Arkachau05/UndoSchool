@@ -1,6 +1,5 @@
-com\example\coursesearch\loader\CourseIndexer.class
-com\example\coursesearch\service\CourseSearchService.class
-com\example\coursesearch\controller\CourseController.class
-com\example\coursesearch\CourseSearchApplication.class
-com\example\coursesearch\document\CourseDocument.class
-com\example\coursesearch\document\CourseDocument$CourseDocumentBuilder.class
+com\example\elasticsearch\ElasticsearchApplication.class
+com\example\elasticsearch\model\Course.class
+com\example\elasticsearch\service\CourseService.class
+com\example\elasticsearch\controller\CourseController.class
+com\example\elasticsearch\repository\CourseRepository.class

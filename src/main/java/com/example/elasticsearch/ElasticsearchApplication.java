@@ -1,11 +1,11 @@
-package com.example.coursesearch;
+package com.example.elasticsearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CourseSearchApplication {
+public class ElasticsearchApplication {
     public static void main(String[] args) {
-        SpringApplication.run(CourseSearchApplication.class, args);
+        SpringApplication.run(ElasticsearchApplication.class, args);
     }
 }
