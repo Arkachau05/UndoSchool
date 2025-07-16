@@ -21,6 +21,7 @@ This project is a Spring Boot application that uses Elasticsearch to store and s
 ---
 
 ## 📂 Project Structure
+```bash
 src/
 └── main/
 ├── java/com/example/elasticsearch/
@@ -35,7 +36,7 @@ src/
 docker-compose.yml
 README.md
 pom.xml
-
+```
 
 ---
 
